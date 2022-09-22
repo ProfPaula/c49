@@ -1,0 +1,4 @@
+#|
+$JSON
+{"authURL":["ai2.appinventor.mit.edu"],"YaVersion":"213","Source":"Form","Properties":{"$Name":"Screen1","$Type":"Form","$Version":"30","AlignHorizontal":"3","AppName":"admin_app","Title":"Screen1","Uuid":"0","$Components":[{"$Name":"Legenda1","$Type":"Label","$Version":"5","FontBold":"True","FontItalic":"True","FontSize":"30","Text":"BYJU'S Resto","TextColor":"&HFFFF0000","Uuid":"2122284787"},{"$Name":"atualizar_menu","$Type":"Button","$Version":"7","BackgroundColor":"&HFFFFAFAF","FontBold":"True","FontSize":"30","Height":"-1050","Width":"-1100","Text":"Atualizar Menu","TextColor":"&HFFFFFFFF","Uuid":"-106342623"},{"$Name":"verificar_pedidos","$Type":"Button","$Version":"7","BackgroundColor":"&HFFFFAFAF","FontBold":"True","FontSize":"30","Height":"-1050","Width":"-1100","Text":"Verificar Pedidos","TextColor":"&HFFFFFFFF","Uuid":"-1875431588"}]}}
+|#
